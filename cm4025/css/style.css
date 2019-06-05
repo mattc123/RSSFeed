@@ -1,0 +1,77 @@
+
+head {
+	font-family: Arial, Helvetica, sans-serif;
+	}
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	}
+form {
+	width: 500px;
+	display: block;
+	border: 3px solid #ffffff;
+	}
+
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-40%) translateY(-75%);
+}
+
+.image {
+  width: 350px;
+  padding: 50px 10px;
+  margin: 8px 100;
+  display: block;
+}
+
+img.rss {
+  width: 40%;
+  
+}
+
+
+/* Full-width inputs */
+input[type=text], input[type=password] {
+  width: 350px;
+  padding: 10px 10px;
+  margin: 8px 0;
+  display: block;
+  border: 2px solid #555;
+  box-sizing: border-box;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
+}
+input[type=text]:focus {
+  width: 100%;
+}
+input[type=password]:focus {
+  width: 100%;
+}
+
+/* Set a style for all buttons */
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  width: 100px;
+}
+
+/* Add a hover effect for buttons */
+button:hover {
+  opacity: 0.8;
+}
+
+
+
+
+
+
+
+
