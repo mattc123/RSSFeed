@@ -12,10 +12,10 @@
 
     $prep = 0;
 
-    $host = "localhost";
-    $user = "root";
-    $pass = "";
-    $database = "db1304093_cmm007";
+    $host = "****";
+    $user = "****";
+    $pass = "****";
+    $database = "****";
 
     $results = null;
 

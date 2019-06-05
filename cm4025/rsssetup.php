@@ -9,12 +9,12 @@
     error_reporting(~0);
 	
 	
-    $host = "localhost";
-    $user = "root";
-    $pass = "";
-    $database = "db1304093_cmm007";
+    $host = "****";
+    $user = "****";
+    $pass = "****";
+    $database = "****";
 	
-	####database connections need to be changed in the following files:################## sorry
+	####database connections need to be changed in the following files:##################
 	#login.php
 	#reg.php
 	#save.php

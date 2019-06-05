@@ -27,10 +27,10 @@
 	$link=$_GET["edit"];
 	$username = $_SESSION["username"];
 		
-    $host = "localhost";
-    $user = "root";
-    $pass = "";
-    $database = "db1304093_cmm007";
+    $host = "****";
+    $user = "****";
+    $pass = "****";
+    $database = "****";
     $connection  = mysqli_connect($host, $user, $pass, $database)
       or die ("Error is " . $mysqli_error ($connect));
 	  
